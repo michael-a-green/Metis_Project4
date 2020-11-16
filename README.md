@@ -31,7 +31,7 @@ what degree they are similar.
 
 Also based on the methodology employed in this project, a user of the
 information can, for a specific subject, compare and contrast both highly
-positive and negative points of view by the same said subject. This enables a
+positive and negative points of view on the same said subject. This enables a
 person to quickly determine what users either like or dislike about any of the
 products covered by the underlying corpus.
 
